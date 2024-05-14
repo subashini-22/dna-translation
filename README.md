@@ -1,7 +1,7 @@
 # DNA Translation Repository
 
 ## Overview
-This repository contains a Python module designed for the simulation of various genetic processes, including DNA replication, transcription, and the translation of RNA into protein sequences. 
+This repository hosts a Python module developed as part of an introductory programming course at the National University of Singapore (NUS). The module simulates various genetic processes such as DNA replication, transcription, and the translation of RNA into protein sequences.
 
 ## Features
 - **DNA Replication**: Generate a complementary DNA strand in the 5' to 3' direction from a given DNA sequence, also in the 5' to 3' direction.
@@ -20,3 +20,4 @@ Clone this repository to your local machine using:
 
 ### Usage
 Each function in the script can be used independently based on your computational biology needs. Import the functions from the script and use them in your own
+
